@@ -16,6 +16,7 @@ Sistema de e-commerce especializado em cupcakes, desenvolvido com PyNest Framewo
 ## 🏗️ Arquitetura
 
 O projeto segue uma arquitetura modular baseada em DDD (Domain-Driven Design):
+```bash
 cakecup_back_app/
 ├── src/
 │ ├── core/
@@ -32,6 +33,7 @@ cakecup_back_app/
 │ │ └── user/ # Módulo de usuários
 │ └── app_module.py # Módulo principal
 └── main.py # Ponto de entrada da aplicação
+```
 
 ## 🛠️ Instalação
 
@@ -166,7 +168,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- Tiago GOis - [GitHub](https://github.com/tiagogois)
+- Tiago Gois - [GitHub](https://github.com/goistsg)
 
 ## 🙏 Agradecimentos
 
@@ -176,4 +178,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-⌨️ com ❤️ por [Tiago Gois](https://github.com/tiagogois)
+⌨️ com ❤️ por [Tiago Gois](https://github.com/goistsg)
