@@ -166,7 +166,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- Tiago GOis - [GitHub](https://github.com/tiagogois)
+- Tiago Gois - [GitHub](https://github.com/goistsg)
 
 ## 🙏 Agradecimentos
 
